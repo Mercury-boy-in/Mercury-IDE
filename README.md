@@ -9,6 +9,6 @@ The IDE does not include any hacking tool or malicious virus or any other harmfu
 ### How to Install
 Go to the Releases section on the right, download `MercuryIDE_Setup.exe`, then click on the installer to install the ide
 
-# Mercury IDE
+# UPCOMING VERSION [MERCURY IDE 1 V19.16.1]
 
 > **Next Update Drops November 30th:** [View Live Countdown & Status](https://mercury-boy-in.github.io/Mercury-IDE/)[cite: 1, 3]
