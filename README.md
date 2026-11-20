@@ -7,4 +7,8 @@ This issue happen cuase the IDE is new and that the IDE doesnt has any global re
 The IDE does not include any hacking tool or malicious virus or any other harmfull codes  
 
 ### How to Install
-Go to the Releases section on the right, download `MercuryIDE_Setup.exe`, then click on the installer to install the ide 
+Go to the Releases section on the right, download `MercuryIDE_Setup.exe`, then click on the installer to install the ide
+
+# Mercury IDE
+
+> **Next Update Drops November 30th:** [View Live Countdown & Status](https://mercury-boy-in.github.io/Mercury-IDE/)[cite: 1, 3]
